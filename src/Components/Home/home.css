@@ -1,0 +1,40 @@
+.submit {
+
+    align-items: center;
+        margin: auto;
+        width: 120px;
+        height: 80px;
+        background: #37d062;
+        border-radius: 6px;
+        margin: auto;
+        padding-left: 33px;
+        display: inline-flex;
+        margin-left: 20px;
+}
+.container{
+    max-width: 563px;
+    max-height: 404px;
+    }
+.heading{
+    color: brown;
+    font-weight: 400;
+    top: 20px;
+    margin-inline: auto;
+    flex: 1;
+    line-height: 100px; 
+}
+.button {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+    position: relative;
+    mix-blend-mode: difference;
+    margin-top: 28px;
+    margin-right: 40px;
+  }
